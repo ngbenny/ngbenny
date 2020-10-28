@@ -6,7 +6,7 @@ My name is Benny Ng, I'm a fullstack software engineer from the Innovation Lab (
 
 #### My favourite game
 
-<img align="left" src="https://github.com/ngbenny/ngbenny/blob/master/loop.gif?raw=true" width="100%">
+<img align="left" src="https://github.com/ngbenny/ngbenny/blob/main/loop.gif?raw=true" width="100%">
 
 <!--
 **ngbenny/ngbenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
