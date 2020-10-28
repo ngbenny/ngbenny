@@ -2,7 +2,7 @@
 
 #### About me
 
-My name is Benny Ng, I'm a fullstack software engineer from the Innovation Lab (LOFT). Ping me if you would like to have a chat, we are constantly exploring opportunities where we can bring values into business with innovation tech & HCD.
+My name is Benny Ng, I'm a Fullstack Software Engineer from the Innovation Lab (LOFT). Ping me if you would like to have a chat, we are constantly exploring opportunities where we can bring values into business with innovation tech & HCD.
 
 #### My favourite game
 
